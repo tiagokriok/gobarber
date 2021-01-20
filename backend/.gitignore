@@ -1,2 +1,4 @@
 ormconfig.json
 .env
+tmp/*
+!tmp/.gitkeep
